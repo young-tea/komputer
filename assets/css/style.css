@@ -48,6 +48,10 @@ body {
 	margin-bottom: 21%;
 }
 
+.margin-17 {
+	margin-bottom: 17%;
+}
+
 .margin-7 {
 	margin-bottom: 7%;
 }
@@ -158,6 +162,21 @@ body {
 .butn a{
 	color: #666;
 }
+
+.btnn{
+	margin-bottom: 2%;
+}
+
+.jumbo {
+	padding: 2% 2% 7% 2%;
+	background-color: #ede5ff;
+}
+
+
+
+
+
+
 
 
 
