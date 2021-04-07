@@ -108,9 +108,9 @@ body {
 
 /* content*/
 
-.img1 {
-	width: 75%;
-	height: 75%;
+.big {
+	width: 55%;
+	height: 55%;
 	margin-top: 5%;
 	border: solid 1px;
 	border-color: #A9A9A9;
@@ -125,8 +125,8 @@ body {
 }
 
 .imgmsvg {
-	width: 75%;
-	height: 75%;
+	width: 55%;
+	height: 55%;
 	margin-top: 5%;
 }
 
